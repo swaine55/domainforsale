@@ -35,4 +35,12 @@
       text-decoration: underline;
     }
   </style>
-</
+</head>
+<body>
+  <div class="container">
+    <h1>This domain is for sale</h1>
+    <p>Contact <a href="mailto:admin@linkchainmarketing.com">admin@linkchainmarketing.com</a> for more information.</p>
+  </div>
+</body>
+</html>
+
